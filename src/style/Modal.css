@@ -1,0 +1,27 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.Modal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   position: relative;
+   z-index: 999;
+   top: 0;
+
+}
+.ModalCard{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    margin-top: 64px;
+    background-color: #fff;
+    width: 450px;
+}
+.ModalNav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.ModalNavTitle{
+    font-size: 18px;
+}

@@ -1,0 +1,9 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.ProductPage{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    position: absolute;
+}

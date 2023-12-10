@@ -1,0 +1,22 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.ProductCart{
+    position: relative;
+    width: 210px;
+    height: 210px;
+    margin: 32px 16px 16px 16px;
+}
+.ProductImg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.ProductCartText{
+    position: absolute;
+    color: #fff;
+    bottom: 0;
+    width: -webkit-fill-available;
+    padding: 8px;
+    background-color: #1d6df1;
+}

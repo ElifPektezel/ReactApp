@@ -1,0 +1,36 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: -webkit-fill-available;
+    height: 64px;
+    padding: 8px 16px 8px 16px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+}
+.NavbarForm{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.NavbarOptions{
+    color: black;
+    font-size: 16px;
+}
+.NarbarInput{
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 8px;
+    border: 1px solid rgb(168, 168, 168);
+    height: 42px;
+    padding-left: 8px;
+}
+.NarbarIcn{
+    color: #1d6df1 ;
+    cursor: pointer;
+}
+.NavbarLogo{
+    font-size: 24px;
+}
